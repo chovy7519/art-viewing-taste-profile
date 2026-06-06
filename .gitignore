@@ -6,14 +6,3 @@ __pycache__/
 results.json
 personality-card.html
 xiaohongshu-script.txt
-
-# Non-core promotional content
-art-viewing-taste-profile/references/xiaohongshu-assets.md
-
-# Generated visual assets; keep prompt data, not rendered images.
-art-viewing-taste-profile/assets/personality-visuals/
-*.png
-*.jpg
-*.jpeg
-*.webp
-*.gif
