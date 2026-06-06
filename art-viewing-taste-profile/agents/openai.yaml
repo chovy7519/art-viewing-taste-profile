@@ -1,0 +1,4 @@
+interface:
+  display_name: "Art Viewing Taste Profile"
+  short_description: "Artwork recognition and aesthetic taste profiles"
+  default_prompt: "Use $art-viewing-taste-profile to turn art-viewing photos into artwork recognition, aesthetic judgments, and a shareable taste profile card."
