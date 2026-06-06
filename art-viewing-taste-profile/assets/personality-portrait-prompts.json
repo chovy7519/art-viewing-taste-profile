@@ -1,0 +1,85 @@
+{
+  "style_system": "original gallery-sprite character system, hand-drawn sticker look, loose uneven ink outline, flat color blocks, soft marker wash, white rounded card frames, visible sketchy imperfections, cute but not childish, no generated text",
+  "types": [
+    {
+      "type": "SOHI",
+      "name_cn": "温润古典者",
+      "direction": "Round jade gallery sprite, small robe-like scarf, holding a folded gallery map and ceramic token, gentle centered pose."
+    },
+    {
+      "type": "SOHM",
+      "name_cn": "殿堂凝视者",
+      "direction": "Cream-and-gold sprite with tiny cape and hand microphone, upright public pose, simple spotlight circle."
+    },
+    {
+      "type": "SOXI",
+      "name_cn": "微光实验者",
+      "direction": "Pale yellow translucent scarf sprite, holding three glowing material chips, shy curious pose."
+    },
+    {
+      "type": "SOXM",
+      "name_cn": "感官造境者",
+      "direction": "Bright teal-orange sprite with color swatches, both arms open, simple light ribbon behind."
+    },
+    {
+      "type": "STHI",
+      "name_cn": "残痕叙事者",
+      "direction": "Beige patched sprite with red thread and worn notebook, quiet side glance, paper scraps."
+    },
+    {
+      "type": "STHM",
+      "name_cn": "悲壮考古者",
+      "direction": "Bronze-black sprite with archive photo cards, diagonal cloak shape, solemn eyes."
+    },
+    {
+      "type": "STXI",
+      "name_cn": "异质采样者",
+      "direction": "Patchwork sprite with found-object charms and small sample bag, alert sideways pose."
+    },
+    {
+      "type": "STXM",
+      "name_cn": "感官风暴者",
+      "direction": "Paint-splashed sprite with big brush, tilted jumping pose, controlled color burst."
+    },
+    {
+      "type": "COHI",
+      "name_cn": "文脉读图者",
+      "direction": "Blue-grey glasses sprite, magnifier and open book, careful reading pose."
+    },
+    {
+      "type": "COHM",
+      "name_cn": "秩序策展者",
+      "direction": "Navy curator sprite with clipboard and floor-plan board, neat centered authority pose."
+    },
+    {
+      "type": "COXI",
+      "name_cn": "冷静发明者",
+      "direction": "Minimal black sprite with transparent acrylic plate and tiny geometric hairpin, focused gaze."
+    },
+    {
+      "type": "COXM",
+      "name_cn": "观念纪念碑",
+      "direction": "Structured blue-grey sprite holding a cube model, confident presenter gesture."
+    },
+    {
+      "type": "CTHI",
+      "name_cn": "暗线考据者",
+      "direction": "Dark plum sprite with red thread map and archive scraps, intense close-reading eyes."
+    },
+    {
+      "type": "CTHM",
+      "name_cn": "历史辩论者",
+      "direction": "Charcoal-rust sprite with layered documents, one sharp debating hand gesture."
+    },
+    {
+      "type": "CTXI",
+      "name_cn": "边界解码者",
+      "direction": "Soft purple translucent sprite with coded fragments and mixed collar, shy but sharp gaze."
+    },
+    {
+      "type": "CTXM",
+      "name_cn": "先锋宣言者",
+      "direction": "Black-red manifesto sprite with poster fragments, bold pointing pose, high-contrast aura."
+    }
+  ]
+}
