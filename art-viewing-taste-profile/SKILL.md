@@ -25,6 +25,8 @@ Use **Art Viewing Taste Profile / 观展审美画像** because the object is not
 6. **Design profile visuals**: load `references/personality-visual-system.md` when the user needs the 16 visual identities, portrait prompts, cover art, or avatar direction.
 7. **Prepare social or competition assets**: load `references/xiaohongshu-assets.md` only when the user needs post titles, cover logic, or a 30-second recording outline.
 
+For workflow explanation, implementation planning, or product pitching, load `references/skill-flowchart.md`.
+
 ## Output Contract
 
 Always preserve these output layers:
